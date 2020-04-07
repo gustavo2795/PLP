@@ -10,10 +10,10 @@ AS principais features do Aplicativo são:
 Adições futuras:
 - Módulo de pagamento via PagSeguro
 
-#Conteúdo Técnico Utilizado
+# Conteúdo Técnico Utilizado
 - Backend em NodeJs e MongoDB
 - MicroFreamework Express
 - Expo
 - Expo-image-picker
 
-![login](https://imgur.com/em8oKQb)
+![login](https://i.imgur.com/em8oKQb.png)
