@@ -16,5 +16,5 @@ Adições futuras:
 - Expo
 - Expo-image-picker
 
-![login](https://i.imgur.com/pvJkY6Q.png)
-![gif](https://imgur.com/XyCXxoP)
+![login](https://i.imgur.com/pvJkY6Q.png)  ![tela1](https://i.imgur.com/bTiCvKO.png)  
+
